@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./first.gif" width="85%" alt="MasterHead">
+  <img src="./cat.gif" width="85%" alt="MasterHead">
 </p>
 
 <div>
